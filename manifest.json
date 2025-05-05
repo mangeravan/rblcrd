@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#6D276D",
-    "theme_color": "#6D276D",
+    "theme_color": "#111E5AFF",
     "description": "RBL Credit Cards offer secure, convenient, and rewarding payment solutions. Choose from a wide range of cards designed for shopping, travel, dining, and more—backed by the trust of RBL Bank of India",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
